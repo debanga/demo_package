@@ -32,5 +32,5 @@ $ pip install .
 ## Usage
 - Example
 ```
-
+$ python ./example/example.py
 ```
