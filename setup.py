@@ -2,8 +2,6 @@ from setuptools import setup, Extension
 from setuptools import find_packages
 from setuptools.config import read_configuration
 
-conf_dict = read_configuration("setup.cfg")
-
 import mypackage
 
 with open("README.md", encoding="utf-8") as f:
