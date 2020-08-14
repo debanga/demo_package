@@ -25,5 +25,12 @@ $ pip install -r requirements.txt
 ## Installing for production
 - Using `setup.py`
 ```
-$ pip install setup.py
+$ python install setup.py
+$ pip install .
+```
+
+## Usage
+- Example
+```
+
 ```

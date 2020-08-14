@@ -22,4 +22,7 @@ if __name__ == "__main__":
         platforms=["linux", "unix"],
         python_requires=">3.5.2",
         install_requires=["numpy>=1.18.5"],
+        scripts=[
+            'scripts/greetings.py',
+           ]
     )
